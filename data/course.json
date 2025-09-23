@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Telecommunications"
+    ]
+  ],
+  "legacy_uid": "53a6223a-f25e-784e-9c98-ffa141341d91",
+  "instructors": {
+    "content": [
+      "e375d565-270c-0d19-9532-fa4b28cf4b5c",
+      "a8144fe8-f2c3-2c36-c757-9f7d0f4fd80d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "71dc6a1f-f703-1f94-8e77-129cdf323942",
+    "website": "6-011-introduction-to-communication-control-and-signal-processing-spring-2010"
+  },
+  "course_title": "Introduction to Communication, Control, and Signal Processing",
+  "course_description": "This course examines signals, systems and inference as unifying themes in communication, control and signal processing. Topics include input-output and state-space models of linear systems driven by deterministic and random signals; time- and transform-domain representations in discrete and continuous time; group delay; state feedback and observers; probabilistic models; stochastic processes, correlation functions, power spectra, spectral factorization; least-mean square error estimation; Wiener filtering; hypothesis testing; detection; matched filters.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.011",
+  "course_image_thumbnail": {
+    "content": "2fce7b94-3f78-374b-49bb-5287be4d211e",
+    "website": "6-011-introduction-to-communication-control-and-signal-processing-spring-2010"
+  },
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Open Textbooks"
+  ],
+  "site_uid": "2972f2b4-d186-454f-ba66-216cdf8e0c18",
+  "site_short_id": "6.011-spring-2010",
+  "site_url_path": "courses/6-011-introduction-to-communication-control-and-signal-processing-spring-2010",
+  "title": "Course Metadata"
+}
