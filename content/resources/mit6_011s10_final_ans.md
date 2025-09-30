@@ -4,6 +4,8 @@ description: 'This resource contains solutions of final. '
 file: /courses/6-011-introduction-to-communication-control-and-signal-processing-spring-2010/84a55f7254fd44c5412501f3d408aebb_MIT6_011S10_final_ans.pdf
 file_size: 208988
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

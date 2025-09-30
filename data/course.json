@@ -34,6 +34,7 @@
     "website": "6-011-introduction-to-communication-control-and-signal-processing-spring-2010"
   },
   "course_title": "Introduction to Communication, Control, and Signal Processing",
+  "hide_download": true,
   "course_description": "This course examines signals, systems and inference as unifying themes in communication, control and signal processing. Topics include input-output and state-space models of linear systems driven by deterministic and random signals; time- and transform-domain representations in discrete and continuous time; group delay; state feedback and observers; probabilistic models; stochastic processes, correlation functions, power spectra, spectral factorization; least-mean square error estimation; Wiener filtering; hypothesis testing; detection; matched filters.\n",
   "department_numbers": [
     "6"
@@ -44,6 +45,7 @@
     "content": "2fce7b94-3f78-374b-49bb-5287be4d211e",
     "website": "6-011-introduction-to-communication-control-and-signal-processing-spring-2010"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Exams with Solutions",
     "Open Textbooks"
