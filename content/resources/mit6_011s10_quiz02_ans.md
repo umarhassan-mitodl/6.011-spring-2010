@@ -4,8 +4,6 @@ description: This resource contains answer booklet of quiz 2.
 file: /courses/6-011-introduction-to-communication-control-and-signal-processing-spring-2010/8c11b37381db79f0a88ecebc9921a4b0_MIT6_011S10_quiz02_ans.pdf
 file_size: 156546
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

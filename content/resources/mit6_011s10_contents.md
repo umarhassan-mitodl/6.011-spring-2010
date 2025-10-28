@@ -4,8 +4,6 @@ description: This resource contains information about table of contents.
 file: /courses/6-011-introduction-to-communication-control-and-signal-processing-spring-2010/b9a6ef52fcc0608043a8bc6e98f49c64_MIT6_011S10_contents.pdf
 file_size: 178351
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
